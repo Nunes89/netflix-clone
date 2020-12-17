@@ -98,3 +98,7 @@ header nav a:hover {
   display: block;
   cursor: pointer;
 }
+
+.carrosel-filmes {
+  margin-top: 5px;
+}
